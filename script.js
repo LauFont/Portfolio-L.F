@@ -16,5 +16,16 @@ document.addEventListener("click", (e) => {
   $menu.classList.remove("is-active");
 });
 
+/* **********contacto*********** */
+
+function contactFormValidations(){
+
+  const $form= document.querySelector("contact-form"),
+  $inputs = document.querySelectorAll("contact-form*[required]");
+
+  console.log("$inputs");
+
+
+}
 
 
