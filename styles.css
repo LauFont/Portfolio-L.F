@@ -410,7 +410,9 @@ progress::-webkit-progress-value {
 .contact-form input,
 .contact-form textarea {
   font-size: 0.85rem;
+  outline-color: #a10440;
 }
+
 
 .contact-form input {
   border: 0;
