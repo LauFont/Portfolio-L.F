@@ -18,14 +18,6 @@ document.addEventListener("click", (e) => {
 
 /* **********contacto*********** */
 
-function contactFormValidations(){
 
-  const $form= document.querySelector("contact-form"),
-  $inputs = document.querySelectorAll("contact-form*[required]");
-
-  console.log("$inputs");
-
-
-}
 
 
